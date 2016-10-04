@@ -1,0 +1,35 @@
+body{background-color:#e4dfdc}
+
+.frontpage{background-color: #37272e;
+           height: 800px;
+           width: 800px;
+           margin: auto;
+           margin-top: 300px;
+           margin-bottom: 300px;}
+           
+.alphabet{font-family: verdane;
+          font-size: 200px;
+          color: white;
+          text-align: right;
+          padding: 20px;
+          margin: 0px;
+          }           
+
+.letters{font-family: Arial, Helvetica, sans-serif;
+         color: #ef377f;
+         font-size: 60px;
+         text-align: right;
+         font-weight: lighter;
+         padding: 20px;
+         margin: 0px;
+         position: relative;
+         top:-40px; }
+         
+.items{color: white;
+       font-size: 30px;
+       text-align: left;
+       font-family: normal;
+       margin-bottom: 100px;  }         
+
+             
+                      
